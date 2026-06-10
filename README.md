@@ -50,12 +50,14 @@ showing:
 
 #### Raw data
 results/results_repeat_{i}.csv
+
 (i=1, 2, 3)
 
 #### A json file labeling the information of the raw data
 
 ### Running
 Python Figure 5.py
+
 The simulation uses Python multiprocessing for parallel execution.
 
 
@@ -85,7 +87,9 @@ The code generates:
 #### Capacity curves
 For each reduction rate of e-e connections:
 /capacity_50_ex-neurons_system_{i}_in_neuron_E-E_deficiency.pdf
+
 /capacity_50_ex-neurons_system_{i}_in_neuron_E-E_deficiency.svg
+
 (i=1, 3, 5)
 
 showing:
