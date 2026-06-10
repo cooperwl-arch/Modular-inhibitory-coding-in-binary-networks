@@ -99,6 +99,7 @@ results/raw_data/raw_data_def_e_e_{def_e_e}.csv
 #### A json file labeling the information of the raw data
 
 ### Running
+
 Python Figure 4_i_inhibi_j.py
 (i=A, B, C. i are the labels of the columns of the panels, representing E-E, E-I, I-E connections.
 j=1, 3, 5)
