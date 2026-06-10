@@ -11,12 +11,12 @@ The network consists of:
 For each level of connection loss, the simulation measures the fraction of successfully recalled memories. 
 
 ## Dependencies 
-os
-matplotlib
-numpy
-multiprocessing 
-random
-pandas
+os,
+matplotlib,
+numpy,
+multiprocessing,
+random,
+pandas,
 json
 
 ## Figure 5
