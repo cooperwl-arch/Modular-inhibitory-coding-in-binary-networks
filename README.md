@@ -86,6 +86,7 @@ The code generates:
 
 #### Capacity curves
 For each reduction rate of e-e connections:
+
 /capacity_50_ex-neurons_system_{i}_in_neuron_E-E_deficiency.pdf
 
 /capacity_50_ex-neurons_system_{i}_in_neuron_E-E_deficiency.svg
@@ -98,6 +99,7 @@ showing:
 
 #### Raw data
 results/raw_data/raw_data_def_e_e_{def_e_e}.csv
+
 (def_e_e=0, 25, 50, 75)
 
 #### A json file labeling the information of the raw data
