@@ -99,7 +99,9 @@ showing:
 
 #### Raw data
 50 E-E deficiency/inhibi_{i}/raw_data/raw_data_def_e_e_{def_e_e}.csv (Figure 4A)
+
 50 E-I deficiency/inhibi_{i}/raw_data/raw_data_def_e_e_{def_e_e}.csv (Figure 4B)
+
 50 I-E deficiency/inhibi_{i}/raw_data/raw_data_def_e_e_{def_e_e}.csv (Figure 4C)
 
 (def_e_e=0, 25, 50, 75)
