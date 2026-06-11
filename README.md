@@ -87,9 +87,22 @@ The code generates:
 #### Capacity curves
 For each reduction rate of e-e connections:
 
-/capacity_50_ex-neurons_system_{i}_in_neuron_E-E_deficiency.pdf
+For Figure 4A:
+50 E-E deficiency/inhibi_{i}/capacity_50_ex-neurons_system_{i}_in_neuron_E-E_deficiency.pdf
 
-/capacity_50_ex-neurons_system_{i}_in_neuron_E-E_deficiency.svg
+50 E-E deficiency/inhibi_{i}/capacity_50_ex-neurons_system_{i}_in_neuron_E-E_deficiency.svg
+
+For Figure 4B:
+
+50 E-I deficiency/inhibi_{i}/capacity_50_ex-neurons_system_{i}_in_neuron_E-I_deficiency.pdf
+
+50 E-I deficiency/inhibi_{i}/capacity_50_ex-neurons_system_{i}_in_neuron_E-I_deficiency.svg
+
+For Figure 4C:
+
+50 I-E deficiency/inhibi_{i}/capacity_50_ex-neurons_system_{i}_in_neuron_I-E_deficiency.pdf
+
+50 I-E deficiency/inhibi_{i}/capacity_50_ex-neurons_system_{i}_in_neuron_I-E_deficiency.svg
 
 (i=1, 3, 5)
 
