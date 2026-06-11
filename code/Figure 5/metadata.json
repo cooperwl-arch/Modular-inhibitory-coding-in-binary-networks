@@ -1,0 +1,22 @@
+{
+    "data_shape": "(3, 5, 6)",
+    "axis_0": "repeat",
+    "axis_1": "fraction of removed E-E connections (%)",
+    "axis_2": "fraction of removed I-E connections (%)",
+    "rows_in_each_csv": [
+        0,
+        25,
+        50,
+        75,
+        90
+    ],
+    "columns_in_each_csv": [
+        0,
+        10,
+        15,
+        25,
+        50,
+        75
+    ],
+    "value": "recall ratio"
+}
