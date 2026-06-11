@@ -88,6 +88,7 @@ The code generates:
 For each reduction rate of e-e connections:
 
 For Figure 4A:
+
 50 E-E deficiency/inhibi_{i}/capacity_50_ex-neurons_system_{i}_in_neuron_E-E_deficiency.pdf
 
 50 E-E deficiency/inhibi_{i}/capacity_50_ex-neurons_system_{i}_in_neuron_E-E_deficiency.svg
