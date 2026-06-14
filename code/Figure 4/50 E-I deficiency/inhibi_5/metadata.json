@@ -1,0 +1,26 @@
+{
+    "data_shape": "(3, N)",
+    "axis_0": "repeat",
+    "axis_1": "number of patterns",
+    "row_values": [
+        "repeat_1",
+        "repeat_2",
+        "repeat_3"
+    ],
+    "column_values": "number of patterns tested (see csv column headers)",
+    "separate_csv_files": [
+        "raw_data_def_e_i_0.csv",
+        "raw_data_def_e_i_25.csv",
+        "raw_data_def_e_i_50.csv",
+        "raw_data_def_e_i_75.csv"
+    ],
+    "parameter_varied_between_files": {
+        "fraction of removed E-I connections (%)": [
+            0,
+            25,
+            50,
+            75
+        ]
+    },
+    "value": "recall fraction"
+}
