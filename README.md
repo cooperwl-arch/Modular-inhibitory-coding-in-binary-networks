@@ -1,4 +1,4 @@
-# Modular inhibitory-excitatory binary network under connection deficiency.
+# Modular inhibitory-excitatory binary network under connection deficiency
 This repository contains the Python code for the Figure 4 and Figure 5 in the paper studying the impacts of connection loss on the memory storage.
 
 ## Overview 
